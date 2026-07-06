@@ -24,12 +24,6 @@ ROMs that i maintain on:
 
 ---
 
-## Operating System
-Windows 10 IoT LTSC on my Macbook Air Early-2015 for now.<br>
-In future, i'll install archlinux (or nyArch >w<). Kawaii~! :3
-
----
-
 ## Self-Hosted Infrastructure
 Running on **Lenovo Thinkcentre M910q** with Cloudflare Tunnel for public access. 
 <details>

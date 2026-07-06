@@ -1,6 +1,8 @@
 <!-- Inspired by: MiguVT@github -->
 # Hi, welcome to my profile!
 
+---
+
 ## About me!
 I'm archcloudy, a catboy person who loves to tinker with tech stuff. Currently focusing to learn **frontend/backend** and **privacy**.<br>
 Lives in **Indonesia** and pretty socially awkward..
@@ -11,6 +13,8 @@ Currently, my main stack is: Javascript/nodeJS, Python, HTML/CSS [beware, very n
 
 I primarily use VSCodium as code editor, Git for repo stuff btw :3
 
+---
+
 ## Project
 I'm a Xiaomi 12T AOSP maintainer, which you can find all of the source right here: https://github.com/mt6895-plato<br>
 ROMs that i maintain on:
@@ -18,9 +22,13 @@ ROMs that i maintain on:
 - [AxionOS](https://github.com/AxionOS-Plato) (ComingSoon)
 - [CalyxOS](https://github.com/CalyxOS-Plato) (Experimental, side-project)
 
+---
+
 ## Operating System
 Windows 10 IoT LTSC on my Macbook Air Early-2015 for now.<br>
 In future, i'll install archlinux (or nyArch >w<). Kawaii~! :3
+
+---
 
 ## Self-Hosted Infrastructure
 Running on **Lenovo Thinkcentre M910q** with Cloudflare Tunnel for public access. 
@@ -46,10 +54,16 @@ You may contact me on telegram: @thecloudguy9<br>
 or email: cloudguy9@proton.me
 
 <center>
-You've reached the end of README.MD!<br>
-Thanks for taking your time reading little bit about me >~<<br>
-Let's create some awesome things with code, privacy, and passion! <br>
-</center><br>
+    You've reached the end of README.MD!<br>
+    Thanks for taking your time reading little bit about me >~<
+</center>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=archcloudy&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <div align="right">Inspired by: <b>MiguVT@GitHub</b></div>
 
 <!-- Inspired by: MiguVT@github -->

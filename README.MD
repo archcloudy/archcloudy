@@ -53,10 +53,10 @@ Planning to host NextCloud on my homelab also :3
 You may contact me on telegram: @thecloudguy9<br>
 or email: cloudguy9@proton.me
 
-<center>
+<p align="center">
     You've reached the end of README.MD!<br>
     Thanks for taking your time reading little bit about me >~<
-</center>
+</p>
 
 ---
 

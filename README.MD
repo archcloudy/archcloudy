@@ -16,17 +16,32 @@ I primarily use VSCodium as code editor :3
 
 ## Journey
 - 2019 - Learning NodeJS/Javascript and creating my first Discord bot (discordJS v12) on my Windows 8.1 with notepad++ haha
-- 2021 - Learned basics of HTML, can see here on [archive.org-1](http://web.archive.org/web/20210000000000*/gunawan092w.rf.gd), and [archive.org-2](http://web.archive.org/web/20230419060126/http://gunawan092w.tk/). [Source Backups (2021-2022) here](https://github.com/archcloudy/gunawan092w-web)
-- 
+- 2021 - Learned basics of HTML, can see here on [archive.org-1](https://web.archive.org/web/20210000000000*/gunawan092w.rf.gd), [archive.org-2](https://web.archive.org/web/20230419060126/http://gunawan092w.tk/), and [archive.org-3](https://web.archive.org/web/20230522115204/https://gunawan092w.us.to/).<br> [Source Backups (2021-2022) here](https://github.com/archcloudy/gunawan092w-web)
+- 2021 - Started making random stuff out of batch file lmfaoooo
 
 ## Projects
-### GitHub Projects (2024-2026) [JS|PHP]
+### GitHub Projects (2022-2026) [JS|PHP]
+- [discord-webclient-2019](https://github.com/archcloudy/discord-webclient-2019) - no description (August 2022)
 - [cvmBotJS](https://github.com/archcloudy/cvmbotJS) - a [collabVM](https://computernewb.com/collab-vm) bot based on JavaScript (Feb 2024 - Apr 2025)
 - [NoteTop Music](https://github.com/archcloudy/notetop-music) - Discord Music bot based on erela.js and LavaLink v3 (Mar 2024 - Apr 2024)
 - [discord-webclient](https://github.com/archcloudy/discord-webclient) - Selfhostable discord client proxy (May 2024 - Jun 2025)
 - [classicubeWeb](https://github.com/archcloudy/classicube-web) - a simple classicube web made in PHP (Dec 2024)
 - [CloudAI](https://github.com/archcloudy/cloudai) - A Discord AI Bot powered by Google Gemini (Jun 2025 / active)
 - [WishCord](https://github.com/archcloudy/wishcord/) - Discord API ReImplementation - vibecoded (Apr 2026 - May 2026)
+### Batch file (.bat) (2021-2022)
+Unfortunately, they're considered lost media. 
+- gcommand - a command prompt simulator (2022)<br><details>
+    <summary> Screenshot</summary>
+    <img src="img/gcommand.png" />
+</details> 
+
+- mc-nogui - Minecraft launcher based on batch file 
+<br><details>
+    <summary>Versions</summary>
+    There are two versions of this.<br>
+    A. Original version that only ships minimal (most assets removed) Optifine 1.16.5; <br>B. WIP Version v1.3 that ships Salwyrr Client 4, Lunar Client 1.8.9/1.16.5, and BadLion Client Prod. 4. <a href="https://youtu.be/9AHQS5NNX6w">Video showcasing the WIP ver can be found here.</a><br><br>
+    Both of those projects were written <b>ALL FROM SCRATCH.</b> <br>It was created because:<br> 1. i have so many dumb ideas, <br>2. i have nothing to do at home and IM BORED.
+</details>
 
 ### Xiaomi 12T Developement
 I'm a Xiaomi 12T AOSP maintainer, which you can find all of the source right here: https://github.com/mt6895-plato<br>

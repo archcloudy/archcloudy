@@ -4,8 +4,7 @@
 ---
 
 ## About me!
-I'm archcloudy, a catboy person who loves to tinker with tech stuff. Currently focusing to learn **frontend/backend**.<br>
-Lives in **Indonesia** and pretty socially awkward..
+I'm archcloudy, an indonesian catboy person who loves to tinker with tech stuff and socially awkward. Currently focusing to learn **frontend/backend**.<br>
 
 I'm into Net/SysAdmin, currently learning Python<br>
 My main stack is: Javascript/nodeJS, Python, HTML/CSS [beware, very noob!]
@@ -53,25 +52,6 @@ ROMs that i maintain on:
 - [CalyxOS](https://github.com/CalyxOS-Plato) (scrapped)
 
 ---
-
-## Self-Hosted Infrastructure
-Running on **Lenovo Thinkcentre M910q** with Cloudflare Tunnel for public access. 
-<details>
-    <summary>Specs (if you care)</summary>
-    - CPU: Intel Core I5-6500T @ 2.50GHz<br>
-    - RAM: 16GB 2400MHz DDR4 (Sk-Hynix/TeamGroup)<br>
-    - Storage: 1TB HDD + 256GB SSD M.2-NVME (OS)<br>
-    - OS: Proxmox VE
-</details>
-
-### Services that i host:
-- [CasaOS](https://home.archcloudy.qzz.io) - Personal cloudOS
-- [Immich](https://photos.gunawan092w1.eu.org/) - Self-hosted Google Photos lol.
-- [Pterodactyl Panel](https://panel.gunawan092w1.eu.org) - Where i host my game server with playit.gg
-
-### Future
-Looking to buy small vps to host a mail server and wireguard VPN, and maybe a domain lol.<br>
-Planning to host NextCloud on my homelab also :3
 
 ## Contact
 You may contact me on telegram: @thecloudguy9<br>

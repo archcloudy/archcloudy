@@ -21,6 +21,7 @@ I primarily use VSCodium as code editor :3
 ## Projects
 ### GitHub Projects (2022-2026) [JS|PHP]
 - [discord-webclient-2019](https://github.com/archcloudy/discord-webclient-2019) - no description (August 2022)
+- [archcloudy-bot](https://github.com/archcloudy/archcloudy-bot) - no description (December 2023)
 - [cvmBotJS](https://github.com/archcloudy/cvmbotJS) - a [collabVM](https://computernewb.com/collab-vm) bot based on JavaScript (Feb 2024 - Apr 2025)
 - [NoteTop Music](https://github.com/archcloudy/notetop-music) - Discord Music bot based on erela.js and LavaLink v3 (Mar 2024 - Apr 2024)
 - [discord-webclient](https://github.com/archcloudy/discord-webclient) - Selfhostable discord client proxy (May 2024 - Jun 2025)
@@ -45,10 +46,9 @@ Unfortunately, they're considered lost media.
 ### Xiaomi 12T Developement
 I'm a Xiaomi 12T AOSP maintainer. You can find all of the source right here: https://github.com/mt6895-plato<br>
 ROMs that i maintain on:
-- [EvolutionX](https://xdaforums.com/t/4791175/) (Last: 11.7 A16-QPR2)
+- [EvolutionX](https://xdaforums.com/t/4791175/) (Last: 11.8 A16-QPR2)
 - [LineageOS](https://xdaforums.com/t/4794704/) (lineageOS 23.2, Active)
 - [PixelOS](https://xdaforums.com/t/4794705/) (sixteen-qpr2, Active)
-- ~~AxionOS (branch: axion-23.2) (ComingSoon)~~ Someone ported it already QwQ
 - [CalyxOS](https://github.com/CalyxOS-Plato) (scrapped)
 
 ---
